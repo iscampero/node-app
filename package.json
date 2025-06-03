@@ -1,0 +1,14 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "Un ejemplo de aplicación Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Ejecutando pruebas\" && exit 0"
+  },
+  "author": "icampero",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
